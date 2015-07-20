@@ -1,0 +1,10 @@
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\bin\Debug\TCP Socket Client.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\bin\Debug\TCP Socket Client.exe
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\bin\Debug\TCP Socket Client.pdb
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\bin\Debug\TCP Socket Client.xml
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\obj\Debug\TCP_Socket_Client.Form1.resources
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\obj\Debug\TCP_Socket_Client.Resources.resources
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\obj\Debug\TCP Socket Client.vbproj.GenerateResource.Cache
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\obj\Debug\TCP Socket Client.exe
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\obj\Debug\TCP Socket Client.xml
+c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Client\TCP Socket Client\obj\Debug\TCP Socket Client.pdb
